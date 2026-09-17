@@ -31,5 +31,6 @@ the first person running one, this is what to check and what to report back:
    the first run downloads the speech model (about 1.6 GB) and shows its progress.
 3. **Eden:** Settings → Library → *Set up analysis engine* (downloads the engine and model),
    then analyze one video.
-4. If something fails, send the exact message shown, plus the file
-   `~/Library/Logs/<App>/main.log` if it exists, and the Mac model / macOS version.
+4. If something fails, send the exact message shown (ReFormat shows details in the log box
+   under each tool; Eden writes `~/Library/Application Support/Eden/startup.log`), and the
+   Mac model / macOS version.
