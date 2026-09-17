@@ -1,0 +1,20 @@
+# Faith Inc — app downloads
+
+Installers for the Faith Inc desktop apps. Source code lives in private repositories; only
+the built installers are published here, so the download links need no login.
+
+| App | Windows | macOS (Apple Silicon) | macOS (Intel) |
+|---|---|---|---|
+| **ReFormat** — converters and the Shorts Maker | [ReFormat-Setup.exe](https://github.com/Faith-Inc22/faith-inc-releases/releases/latest/download/ReFormat-Setup.exe) | see the latest ReFormat release | see the latest ReFormat release |
+| **Eden** — a quieter place to watch (home media server with language filtering) | [Eden-Setup.exe](https://github.com/Faith-Inc22/faith-inc-releases/releases/latest/download/Eden-Setup.exe) | see the latest Eden release | see the latest Eden release |
+| **Genesis Desktop** | [download.genesisdesktop.ca](https://download.genesisdesktop.ca) | — | — |
+
+Releases are tagged `reformat-v<version>` and `eden-v<version>`; `tools-v*` releases hold
+helper binaries the apps download on first use (the whisper.cpp engine for macOS).
+
+**Windows:** the installers are signed by 2545288 Alberta Ltd. If SmartScreen still shows
+"Windows protected your PC" on a brand-new release, choose *More info → Run anyway*.
+
+**macOS:** open the `.dmg`, drag the app to Applications. Until the apps carry an Apple
+Developer ID, the first launch is blocked; open *System Settings → Privacy & Security*, scroll
+down and choose *Open Anyway* once.
