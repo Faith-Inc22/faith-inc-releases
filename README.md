@@ -1,12 +1,14 @@
 # Faith Inc — app downloads
 
+The friendly download page is **[software.genesisdesktop.ca](https://software.genesisdesktop.ca)**; this repository holds the files.
+
 Installers for the Faith Inc desktop apps. Source code lives in private repositories; only
 the built installers are published here, so the download links need no login.
 
 | App | Windows | macOS (Apple Silicon) | macOS (Intel) |
 |---|---|---|---|
-| **ReFormat** — converters and the Shorts Maker | ReFormat-Setup.exe (signed build coming) | [ReFormat-1.0.0-mac-arm64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/reformat-v1.0.0/ReFormat-1.0.0-mac-arm64.dmg) | [ReFormat-1.0.0-mac-x64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/reformat-v1.0.0/ReFormat-1.0.0-mac-x64.dmg) |
-| **Eden** — a quieter place to watch (home media server with language filtering) | Eden-Setup.exe (signed build coming) | [Eden-2.0.0-mac-arm64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-2.0.0-mac-arm64.dmg) | [Eden-2.0.0-mac-x64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-2.0.0-mac-x64.dmg) |
+| **ReFormat** — converters and the Shorts Maker | ReFormat-Setup.exe (uploading) | [ReFormat-1.0.0-mac-arm64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/reformat-v1.0.0/ReFormat-1.0.0-mac-arm64.dmg) | [ReFormat-1.0.0-mac-x64.zip](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/reformat-v1.0.0/ReFormat-1.0.0-mac-x64.zip) |
+| **Eden** — a quieter place to watch (home media server with language filtering) | [Eden-Setup.exe](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-Setup.exe) | [Eden-2.0.0-mac-arm64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-2.0.0-mac-arm64.dmg) | [Eden-2.0.0-mac-x64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-2.0.0-mac-x64.dmg) |
 | **Genesis Desktop** | [download.genesisdesktop.ca](https://download.genesisdesktop.ca) | — | — |
 
 Releases are tagged `reformat-v<version>` and `eden-v<version>`; `tools-v*` releases hold
