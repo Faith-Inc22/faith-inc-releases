@@ -11,9 +11,9 @@ the built installers are published here, so the download links need no login.
 | **Eden** — a quieter place to watch (home media server with language filtering) | [Eden-Setup.exe](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-Setup.exe) | [Eden-2.0.0-mac-arm64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-2.0.0-mac-arm64.dmg) | [Eden-2.0.0-mac-x64.dmg](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/eden-v2.0.0/Eden-2.0.0-mac-x64.dmg) |
 | **Genesis Desktop** | [download.genesisdesktop.ca](https://download.genesisdesktop.ca) | — | — |
 
-**Android:** **Passage**, an app for keeping a Bible reading plan (published for a few hours as "Lectio"; if you installed that, uninstall it and install Passage): [Passage.apk](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/passage-v1.0.0/Passage.apk). Open the file on the phone (Android 9 or newer); Android asks once to allow installs from your browser. Later versions install over it and keep your plans.
+**Android:** **Redeem**, a Christian minimalist phone (a home screen that shows only the apps you approve, with a PIN and Scripture before any change): [Redeem.apk](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/redeem-v1.0.0/Redeem.apk), install page [software.genesisdesktop.ca/redeem](https://software.genesisdesktop.ca/redeem). **Passage**, an app for keeping a Bible reading plan (published for a few hours as "Lectio"; if you installed that, uninstall it and install Passage): [Passage.apk](https://github.com/Faith-Inc22/faith-inc-releases/releases/download/passage-v1.0.0/Passage.apk), install page [software.genesisdesktop.ca/passage](https://software.genesisdesktop.ca/passage). Open the file on the phone (Android 9 or newer); Android asks once to allow installs from your browser. Later versions install over it and keep your settings.
 
-Releases are tagged `reformat-v<version>`, `eden-v<version>` and `passage-v<version>`; `tools-v*` releases hold
+Releases are tagged `reformat-v<version>`, `eden-v<version>`, `passage-v<version>` and `redeem-v<version>`; `tools-v*` releases hold
 helper binaries the apps download on first use (the whisper.cpp engine for macOS).
 
 **Windows:** the installers are signed by 2545288 Alberta Ltd. If SmartScreen still shows
